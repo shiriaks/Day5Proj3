@@ -1,0 +1,118 @@
+.container{
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(6,auto);
+    justify-content: center;
+    padding-top: 200px;
+    padding-bottom: 100px;
+
+}
+.box{
+    
+    height: 50px;
+    width: 50px;
+}
+#b1{
+    border-bottom: 1px solid red;
+    background-color: red;
+}
+#b2{
+    background-color: purple;
+}
+#b3{
+    background-color: red;
+    border-right: 1px solid red;
+}
+#b4{
+    background-color: red;
+    border-left: 1px solid red;
+}
+#b5{
+    background-color: blue;
+}
+#b6{
+    background-color: white;
+}
+#b7{
+    background-color: red;
+    border-top: 1px solid red;
+}
+#b8{
+    background-color: yellow;
+    border-bottom: 1px solid yellow;
+}
+#b9{
+    background-color: white;
+}
+#b10{
+    background-color: white;
+}
+#b11{
+    background-color: yellow;
+    border-bottom: 1px solid yellow;
+}
+#b12{
+    background-color: white;
+}
+#b13{
+    background-color: purple;
+}
+#b14{
+    background-color: yellow;
+    border-top: 1px solid yellow;
+}
+#b15{
+    background-color: white;
+}
+#b16{
+    background-color: white;
+}
+#b17{
+    background-color: yellow;
+    border-top: 1px solid yellow;
+}
+#b18{
+    background-color: white;
+}
+#b19{
+    background-color: yellow;
+    border-bottom: 1px solid yellow;;
+}
+#b20{
+    background-color: blue;
+}
+#b21{
+    background-color: purple;
+}
+#b22{
+    background-color: red;
+    border-right: 1px solid red;
+}
+#b23{
+    background-color: red;
+    border-left: 1px solid red;
+}
+#b24{
+    background-color: white;
+}
+#b25{
+    background-color: yellow;
+    border-top: 1px solid yellow;
+}
+#b26{
+    background-color: purple;
+}
+#b27{
+    background-color:  yellow;
+    border-right: 1px solid yellow;
+}
+#b28{
+    background-color: yellow;
+    border-left: 1px solid yellow;
+}
+#b29{
+    background-color: purple;
+}
+#b30{
+    background-color: blue;
+}
